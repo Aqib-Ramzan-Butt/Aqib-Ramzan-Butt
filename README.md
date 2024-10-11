@@ -1,16 +1,28 @@
-## Hi there 👋
+# **Aqib Ramzan**
 
-<!--
-**Aqib-Ramzan-Butt/Aqib-Ramzan-Butt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Picture]
 
-Here are some ideas to get you started:
+**Software Engineer | Passionate about building innovative solutions**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**About Me**
+I'm a dedicated software engineer with a strong foundation in [programming languages]. I'm passionate about creating user-friendly applications that solve real-world problems. 
+
+**Skills**
+* Python
+* JavaScript
+* React
+* SQL
+* Git
+
+**Projects**
+* **E-commerce Website**
+  * A full-stack web application built with React and Django for online shopping.
+  * [Link to repository]
+* **Machine Learning Model**
+  * A Python-based machine learning model for [task].
+  * [Link to repository]
+
+**Contact**
+* **Email:** aqibramzan@example.com
+* **LinkedIn:** [Your LinkedIn profile]
+* **Website:** [Your personal website]
