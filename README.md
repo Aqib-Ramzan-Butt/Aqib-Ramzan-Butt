@@ -23,6 +23,5 @@ I'm a dedicated software engineer with a strong foundation in [programming langu
   * [Link to repository]
 
 **Contact**
-* **Email:** aqibramzan@example.com
-* **LinkedIn:** [Your LinkedIn profile]
-* **Website:** [Your personal website]
+* **Email:** aqibramzan854@gmail.com
+* **LinkedIn:** [www.linkedin.com/in/aqib-ramzan-554560322]
