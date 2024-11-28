@@ -1,6 +1,6 @@
 # Aqib Ramzan
 
-![Profile Picture](aqib.png)
+
 
 ## Software Engineer | Passionate about building innovative solutions
 
